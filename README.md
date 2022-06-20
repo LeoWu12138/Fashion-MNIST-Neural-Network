@@ -13,6 +13,8 @@ between 0 and 1. Also, a built-in function ‘to_categorical’ was utilised to 
 the integer labels (target labels, what we want to predict) to one-hot encoded
 brands. 
 
+![image](https://user-images.githubusercontent.com/91108612/174523910-f742209d-1829-4ca3-b669-0862247270d5.png)
+
 Training a NN requires 4 steps:
 1. Build the architecture
 2. Compile the model
